@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharshan8088
-- 👀 I’m interested in cyber security,video games,robotics
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning bachelors in computer science engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  dharshan8088@gmail.com
